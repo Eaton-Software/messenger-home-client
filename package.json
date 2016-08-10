@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Eaton-Software/messenger-home-client#readme",
   "dependencies": {
-    "coffee-script": "^1.10.0",
     "johnny-five": "^0.10.0",
     "request": "^2.74.0"
   }
